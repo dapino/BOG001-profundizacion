@@ -10,16 +10,21 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 ----
 
-> *Ejemplo de la estructura del listado de objetivos:*
-
-
-#### Temática
+#### JavaScript
     
-- [ ] Objetivo de aprendizaje:
-    1. Describe las actividades que desarrollarás por cada objetivo
-    2. Define una actividad final en la que puedas compartir tu conocimiento, puede ser la creación de un ejercicio para incluir en [el repositorio de entrenamiento](https://github.com/dapino/daily-js) o un *Lightning Talk* (5-10 minutos) para compartir el aprendizaje y/o ejercicios para practicar con tus compañeras.
+- [ ] Promesas:
+    - Actividades a desarrollar:
+        * Asistir a charla con Lupo sobre promesas (02/09)
+        * Apoyar a un equipo 
+    - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
 
-
+#### Test
+    
+- [ ] Mocks con librerías y manuales:
+    - Actividades a desarrollar:
+        * Realizar test SN
+    - Actividad final: Lightning Talk sobre mocks con librerías. 
+    
 ----
 
 
